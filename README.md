@@ -54,6 +54,6 @@ Command line Interface (CLI)<br />
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="500">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="text" width="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="450">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="text" width="450">
 </p>
