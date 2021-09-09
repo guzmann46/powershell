@@ -49,4 +49,4 @@ Command line Interface (CLI)<br />
 
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500" height="500">
 
-<img src="/Toolbox.png.jpg" alt="alt text" width="500" height="500">
+<img src="/../Toolbox.png" alt="alt text" width="500" height="500">
