@@ -50,5 +50,5 @@ Command line Interface (CLI)<br />
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500">
 
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="alt text" width="500">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="alt text" width="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="alt text" width="300">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="alt text" width="300">
