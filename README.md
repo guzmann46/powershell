@@ -10,7 +10,7 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 # Features
 
 1. Debloat / Remove pre-installed app <br />
-2. Essential tweaks for preformance (with undo option)<br />
+2. Essential tweaks for preformance (with undo option) <br />
 <br />
 3. Set ultrapower mode <br />
 4. Fast animation <br />
