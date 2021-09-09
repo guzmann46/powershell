@@ -46,11 +46,7 @@ Graphical user Interface (GUI)<br />
 Command line Interface (CLI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
-![alt text](https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png | width=100)
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="100" height="100">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500" height="500">
 
-
-![test image size](/Toolbox.png.jpg){:class="img-responsive"}
-![test image size](https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png){:height="50%" width="50%"}
-![test image size](https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png){:height="700px" width="400px"}
+<img src="/Toolbox.png.jpg" alt="alt text" width="500" height="500">
