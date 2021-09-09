@@ -9,17 +9,17 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 # Features
 
-1)Debloat / Remove pre-installed app
-2)Essential tweaks for preformance (with undo option)
+1) Debloat / Remove pre-installed app
+2) Essential tweaks for preformance (with undo option)
 
-3)Set ultrapower mode
-4)Fast animation
-5)Light/Dark mode
-6)Disable Onedrive
-7)Disable Microsoft Store
+3) Set ultrapower mode
+4) Fast animation
+5) Light/Dark mode
+6) Disable Onedrive
+7) Disable Microsoft Store
 
-8)Activate MS office (All version)
-9)Activate Windows 8, 10, 11
+8) Activate MS office (All version)
+9) Activate Windows 8, 10, 11
 
 
 1) Download the .zip file on the main page of the GitHub and extract the .zip file to your desired location
