@@ -46,5 +46,5 @@ Graphical user Interface (GUI)<br />
 Command line Interface (CLI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
-![alt text](https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png)
+![alt text](https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png  "GUI")
 
