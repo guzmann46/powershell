@@ -9,7 +9,7 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 # Features
 
-```Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state.```
+Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state.
 
 ### System Tweaks
 1. Debloat / Remove pre-installed app
@@ -38,7 +38,9 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 18. Delete Temporary files
 
 
-
+# How to use
+Copy the follow command and paste it in the startmenu serach bar then hit enter
+```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 
 
