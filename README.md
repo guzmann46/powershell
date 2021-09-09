@@ -15,24 +15,24 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 3. Turn Windows Update on/off or Security Update only <br />
 
 ### System Tweaks
-4.  Set ultrapower mode <br />
-5. Fast animation <br />
-6. Light/Dark mode <br />
-7. Disable Onedrive <br />
-8. Disable Microsoft Store <br /><br />
+4.  Set ultrapower mode
+5. Fast animation
+6. Light/Dark mode
+7. Disable Onedrive
+8. Disable Microsoft Store
 
 ### System Tweaks
-9.  Activate MS office (All version) <br />
-10. Activate Windows 8, 10, 11 <br /><br />
+9.  Activate MS office (All version)
+10. Activate Windows 8, 10, 11 
 
 ### System Tweaks
-11. Cortana <br />
-12. Action center <br />
-13. window Search <br />
-14. Background app <br />
-15. Clipboard history <br />
-16. Timer resolution (for Gaming FPS) <br />
-17. Delete Temporary files <br />
+11. Cortana
+12. Action center
+13. window Search
+14. Background app
+15. Clipboard history
+16. Timer resolution (for Gaming FPS)
+17. Delete Temporary files
 
 
 
