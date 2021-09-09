@@ -11,13 +11,11 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 Debloat / Remove pre-installed app
 Essential tweaks for preformance (with undo option)
-
 Set ultrapower mode
 Fast animation
 Light/Dark mode
 Disable Onedrive
 Disable Microsoft Store
-
 Activate MS office (All version)
 Activate Windows 8, 10, 11
 
