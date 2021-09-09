@@ -20,12 +20,13 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 6. Light/Dark mode
 7. Disable Onedrive
 8. Disable Microsoft Store
+9. Get rid of Start Menu tiles
 
 ### Activation
 9.  Activate MS office (All version)
 10. Activate Windows 8, 10, 11 
 
-### Other Option
+### Other Option (On/Off)
 11. Cortana
 12. Action center
 13. window Search
