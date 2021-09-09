@@ -9,12 +9,12 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 # Features
 
-Before doing anything, Create a "System Restore Point" from Windows Toolbox
+Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state.
 
 ### System Tweaks
-1. Debloat / Remove pre-installed app <br />
-2. Essential tweaks for preformance (with undo option) <br /> 
-3. Turn Windows Update on/off or Security Update only <br />
+1. Debloat / Remove pre-installed app
+2. Essential tweaks for preformance (with undo option)
+3. Turn Windows Update on/off or Security Update only
 
 ### Additional Option
 4. Set ultrapower mode
