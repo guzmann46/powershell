@@ -47,6 +47,5 @@ Command line Interface (CLI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500" height="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="alt text" width="500">
 
-<img src="/../Toolbox.png" alt="alt text" width="500" height="500">
