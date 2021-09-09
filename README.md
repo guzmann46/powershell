@@ -1,4 +1,4 @@
-# Documentation for Windowtoolbox
+# Documentation for Windows Toolbox
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,6 +8,8 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 
 # Features
+
+Before doing anything, Create a "System Restore Point" from Windows Toolbox
 
 ### System Tweaks
 1. Debloat / Remove pre-installed app <br />
@@ -23,17 +25,17 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 9. Get rid of Start Menu tiles
 
 ### Activation
-9.  Activate MS office (All version)
-10. Activate Windows 8, 10, 11 
+10. Activate MS office (All version)
+11. Activate Windows 8, 10, 11 
 
 ### Other Option (On/Off)
-11. Cortana
-12. Action center
-13. window Search
-14. Background app
-15. Clipboard history
-16. Timer resolution (for Gaming FPS)
-17. Delete Temporary files
+12. Cortana
+13. Action center
+14. window Search
+15. Background app
+16. Clipboard history
+17. Timer resolution (for Gaming FPS)
+18. Delete Temporary files
 
 
 
