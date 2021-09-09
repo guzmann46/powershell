@@ -37,12 +37,14 @@ Before doing anything, Create a "System Restore Point" from Windows Toolbox. jus
 17. Timer resolution (for Gaming FPS)
 18. Delete Temporary files
 
-
 # How to use
-Copy the follow command and paste it in the startmenu serach bar then hit enter
+Copy the follow command and paste it in the startmenu serach bar then hit enter <br />
+
+Graphical user Interface (GUI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
-
+Command line Interface (CLI)<br />
+```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 
 
