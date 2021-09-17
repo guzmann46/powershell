@@ -40,7 +40,7 @@ Before doing anything, Create a "System Restore Point" from Windows Toolbox. jus
 # How to use
 Copy the follow command and paste it in the startmenu serach bar then hit enter <br />
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="500"> <br />
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
 
 
 Quick Start Command <br />
