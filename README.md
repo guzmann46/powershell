@@ -49,7 +49,7 @@ It's Completely Safe to use because everything is reversible
 
 
 # How to use
-Copy the follow command and paste it in the startmenu search bar then hit enter <br />
+Copy the following command and paste it in the startmenu search bar and hit enter <br />
 
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
 
