@@ -40,6 +40,13 @@ It's Completely Safe to use because everything is reversible
 16. Clipboard history
 17. Timer resolution (for Gaming FPS)
 18. Delete Temporary files
+ 
+### Optional Fixes
+19. Reinstall Bloatware
+20. Reinstall MS Store
+21. Reinstall Onedrive
+22. Windows Update Reset
+
 
 # How to use
 Copy the follow command and paste it in the startmenu search bar then hit enter <br />
