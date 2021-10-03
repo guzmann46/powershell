@@ -61,3 +61,12 @@ Quick Start Command <br />
 <p float="left">
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox1.png" alt="text" width="700">
 </p>
+
+
+# Warning
+Most of its setting took affect globally in windows but few setting only affect the current user (like debloating, dark/light mode, startmenu tiles cleanup, deleting temp files etc), it's recommended to use it seperately on other local user account. <br />
+After windows Feature update, most of the bloatware gets reinstalled and some of the setting get restored,
+
+
+
+
