@@ -6,6 +6,9 @@
 
 Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10 and 11, to remove Pre-installed useless application, Speedup preformance, disable cortana, Get rid of telementry, disable unnecessary scheduled tasks, Activate office or window and more... (latest update 2021)
 
+# Open Source
+
+View the Open Source here : ```https://ps.microsoft-toolbox.workers.dev```
 
 # Features
 
