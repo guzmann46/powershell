@@ -8,7 +8,7 @@ Simple and Easy to use Powershell Application(Cli and Gui) to debloat windows 10
 
 # Open Source
 
-View the Open Source here : ```https://ps.microsoft-toolbox.workers.dev```
+View the Windows Toolbox Source Code here : ```https://ps.microsoft-toolbox.workers.dev```
 
 # Features
 
