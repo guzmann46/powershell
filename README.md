@@ -1,4 +1,4 @@
-# Documentation for Windows Toolbox(Open Source)
+# Documentation for Windows Toolbox (Open Source)
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -48,5 +48,5 @@ Quick Start Command <br />
 
 <br />
 <p float="left">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox.png" alt="text" width="700">
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox1.png" alt="text" width="700">
 </p>
