@@ -59,6 +59,8 @@ Paste the Following command in the startmenu search bar and enter <br />
 
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
 <br />
+
+### Preview
 <p float="left">
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Toolbox1.png" alt="text" width="700">
 </p>
