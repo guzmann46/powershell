@@ -54,7 +54,7 @@ Copy the following command and paste it in the startmenu search bar and hit ente
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
 
 Easy Start Command <br />
-start powershell with admin right and paste the following link and enter.
+start powershell with admin right and paste the following link and enter. <br />
 ```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
 
 Quick Start Command <br />
