@@ -49,6 +49,9 @@ It's Completely Safe to use because everything is reversible
 
 
 # How to use
+### Video Guide
+```https://youtu.be/vA7Sr6d12oU``` <br />
+
 ### Easy Start Command
 Start powershell with admin right and paste the following link and enter. <br />
 ```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
