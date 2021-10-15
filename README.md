@@ -6,11 +6,11 @@
 
 Simple and Easy to use Powershell Application(Graphical interface) to debloat windows 10 and 11, to remove Pre-installed useless application, Speedup preformance, disable cortana, Get rid of telementry, disable unnecessary scheduled tasks, Activate office or window and more... (latest update 2021)
 
-# Open Source
+# Open Source (Compatible with windows 10 and 11)
 
 View the Windows Toolbox Source Code here : ```https://ps.microsoft-toolbox.workers.dev```
 
-# Features    **Compatible with windows 10 and 11**
+# Features    
 
 Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state.
 It's Completely Safe to use because everything is reversible
