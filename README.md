@@ -10,7 +10,7 @@ Simple and Easy to use Powershell Application(Graphical interface) to debloat wi
 
 View the Windows Toolbox Source Code here : ```https://ps.microsoft-toolbox.workers.dev```
 
-# Features
+# Features    **Compatible with windows 10 and 11**
 
 Before doing anything, Create a "System Restore Point" from Windows Toolbox. just in case if thing does not goes as u like or you want to revert back in previous state.
 It's Completely Safe to use because everything is reversible
