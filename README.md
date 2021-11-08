@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Simple and Easy to use Powershell Application(Graphical interface) to debloat windows 10 and 11, to remove Pre-installed useless application, Speedup preformance, disable cortana, Get rid of telementry, disable unnecessary scheduled tasks, Activate office or window and more... (latest update 2021)
+Simple and Easy to use Powershell Application(Graphical interface) to debloat windows 10 and 11, to remove Pre-installed useless application, Speedup preformance, disable cortana, Get rid of telementry, disable unnecessary scheduled tasks, Activate office or window, One click install Google Playstore on windows 11 and more... (latest update 2021)
 
 # Open Source (Compatible with windows 10 and 11)
 
@@ -47,6 +47,10 @@ It's Completely Safe to use because everything is reversible
 21. Reinstall Onedrive
 22. Windows Update Reset
 
+### Google Playstore on windows 11
+23. One click Install Google Playstore on windows 11
+24. Fix Google Playstore sign in issue
+25. Completely uninstall Google playstore
 
 # How to use
 ### Easy Start Command
